@@ -1,0 +1,1 @@
+print('The binary of that number is ' + bin(int(input('Enter a number: '))).replace('0b',''))
